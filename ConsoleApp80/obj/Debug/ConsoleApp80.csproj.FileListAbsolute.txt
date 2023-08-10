@@ -1,0 +1,7 @@
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.exe.config
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.exe
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.pdb
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.exe
+G:\Users\ASUS\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.pdb
